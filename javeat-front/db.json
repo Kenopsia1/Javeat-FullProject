@@ -1,0 +1,26 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "name": "Imoen",
+        "mail": "imoen@baldursgate.com",
+        "password": "safePassword123",
+        "role": "adventurer"
+      },
+      {
+        "id": 2,
+        "name": "Minsc",
+        "mail": "minsc@baldursgate.com",
+        "password": "booTheMiniatureGiantSpaceHamster",
+        "role": "adventurer"
+      },
+      {
+        "id": 3,
+        "name": "Jaheira",
+        "mail": "jaheira@baldursgate.com",
+        "password": "harperSecret",
+        "role": "adventurer"
+      }
+    ]
+  }
+  

@@ -1,0 +1,27 @@
+@import url(https://db.onlinewebfonts.com/c/8486c9c92e81479c0091eccd59950936?family=Post+Antiqua);
+.ms_container_buttons {
+    margin: 0 auto;
+    width: 80%;
+    padding-top: 15%;
+    padding-left: 10%;
+}
+
+.ms_title {
+    /* padding-bottom: 5%; */
+    font-family: 'Post Antiqua';
+    color: #f8c10f;
+    text-shadow: 2px 0 #D2B48C, -2px 0 #D2B48C, 0 2px #D2B48C, 0 -2px #D2B48C,
+    1px 1px #D2B48C, -1px -1px #D2B48C, 1px -1px #D2B48C, -1px 1px #D2B48C;
+}
+
+
+
+
+.ms_map {
+    background-image: url("../background/baldurs_map.png");
+    margin-top: 5%;
+    margin-right: 15%;
+   
+}
+
+
